@@ -1,5 +1,8 @@
 # Data Engineer Roadmap and Learning
 <img src="https://www.qnrl.com/wp-content/uploads/2022/02/Data-Engineer-Quorum.jpg">
+<!-- https://s3-eu-west-1.amazonaws.com/landingi-editor-uploads/FtlCnhRe/data_engineering_img1.png -->
+
+
 Welcome to the Data Engineer Roadmap and Learning repository! This repository serves as a comprehensive guide to help you navigate the field of data engineering and acquire the necessary skills and knowledge to excel in this domain.
 
 ## Introduction
