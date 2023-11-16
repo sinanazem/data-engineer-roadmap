@@ -15,7 +15,7 @@ The **Nobel Prize Data Extraction** project is a Python script that retrieves No
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/sinanazem/data-engineer-roadmap.git
     ```
 
 2. Install the required dependencies:
@@ -29,10 +29,8 @@ The **Nobel Prize Data Extraction** project is a Python script that retrieves No
 To run the Nobel Prize Data Extraction script, execute the following command:
 
 ```bash
-python your_script_name.py
+python main.py
 ```
-
-Replace `your_script_name.py` with the actual name of your Python script.
 
 ## Configuration
 
