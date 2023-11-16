@@ -1,5 +1,7 @@
-# Nobel Prize Data Extraction and MongoDB Insertion
-<img src="https://cifar.ca/wp-content/uploads/2020/10/nobelprize-banner-2.jpg" width=550>
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/en/e/ed/Nobel_Prize.png" alt="Nobel Prize" width="250" align="left" hspace="10">
+    <h1>Nobel Prize Data Extraction and MongoDB Insertion</h1>
+</div>
 
 ## Overview
 
