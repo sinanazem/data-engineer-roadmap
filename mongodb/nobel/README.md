@@ -55,4 +55,3 @@ prizes_url = data_url + "3fde64719bc3226b593a1c261f715566ea6284b2/prizes.json"
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
 
 ---
-<hr>
