@@ -3,6 +3,7 @@ import requests
 from pymongo import MongoClient
 from src.utils import get_json_from_url, insert_data_into_collection
 
+
 def nobel_data_crawler():
     # URLs
     data_url = "https://assets.datacamp.com/production/repositories/1838/datasets/"
