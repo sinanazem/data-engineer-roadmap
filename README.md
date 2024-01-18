@@ -92,10 +92,6 @@ This repository provides a curated list of resources to assist you in your learn
 
 Feel free to suggest additional resources or improvements by creating an issue or submitting a pull request. Your contributions will help make this repository a valuable learning resource for the data engineering community.
 
-## Contributing
-
-Contributions to this repository are highly encouraged. If you have any suggestions, resources, or improvements to the roadmap or the list of resources, please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) to contribute to this project.
-
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the content as long as you provide appropriate attribution.
