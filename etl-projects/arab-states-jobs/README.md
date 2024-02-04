@@ -1,4 +1,4 @@
-# Search ETL Project
+# Arab Search Jobs (ETL Project)
 
 
 This project is designed to scrape data from Gulf Talent, process it, and load it into a PostgreSQL database for analysis. The ETL (Extract, Transform, Load) process ensures that the data is cleaned and organized for easy access.
