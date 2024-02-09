@@ -1,8 +1,10 @@
+
+<img src="https://github.com/sinanazem/django-ecommerce/blob/main/People%20search-cuate.png" width=500><br>
 # Arab Search Jobs (ETL Project)
 
 
 This project is designed to scrape data from Gulf Talent, process it, and load it into a PostgreSQL database for analysis. The ETL (Extract, Transform, Load) process ensures that the data is cleaned and organized for easy access.
-<img src="https://github.com/sinanazem/django-ecommerce/blob/main/People%20search-cuate.png"><br>
+
 # Overview
 The project involves three main steps:
 
