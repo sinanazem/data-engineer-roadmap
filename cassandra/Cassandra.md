@@ -1,4 +1,5 @@
 # Cassandra Database
+<img src="https://brandslogos.com/wp-content/uploads/thumbs/cassandra-logo-vector.svg" width=440>
 
 ## Overview
 Cassandra is a highly scalable and distributed NoSQL database system designed to handle large amounts of data across multiple commodity servers. It provides high availability, fault tolerance, and excellent performance, making it suitable for use in a wide range of applications.
