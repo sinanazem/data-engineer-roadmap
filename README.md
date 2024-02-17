@@ -95,9 +95,3 @@ Feel free to suggest additional resources or improvements by creating an issue o
 ## License
 
 This repository is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute the content as long as you provide appropriate attribution.
-
----
-
-We hope this repository helps you in your journey to becoming a skilled data engineer. Whether you're just starting or looking to expand your knowledge, the roadmap and resources provided here will serve as valuable assets. Happy learning!
-
-<hr>
